@@ -293,6 +293,14 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>Test_Field__c</fullName>
+        <description>Demonstration field</description>
+        <displayFormat>TF-{0000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Test Field</label>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>TickerSymbol</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
